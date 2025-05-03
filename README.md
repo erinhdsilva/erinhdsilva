@@ -43,18 +43,22 @@ Tech: Next.js · Express.js · MongoDB · CSS
 - Role-based login (NextAuth.js)  
 - Fully responsive UI with protected routes
 
-#### 🩺 [Diabetes Predictor Model (Aug '24)](https://github.com/erinhdsilva/DiabetesPredictor)  
-SVM-based machine learning model to predict diabetes from medical features  
-Tech: Python · scikit-learn · Google Colab  
-- Trained on PIMA Indian Diabetes dataset  
-- Achieved **77.3% accuracy**
+#### 🕵️ [Paranoia Mode - Privacy Scanner Extension (May '25)](https://github.com/erinhdsilva/Paranoia-Mode)
+A Chrome extension that live-tracks cookies, third-party trackers, and fingerprinting attempts in real time — visualized like a horror game.  
+**Tech Stack:** JavaScript · Chrome Extensions API · HTML/CSS  
+- Visualizes data collection attempts in an interactive popup interface  
+- Tracks cookies, external trackers, and fingerprinting using `chrome.webRequest`  
+- Stores stats using `chrome.storage.local` with no external dependencies  
+- Lightweight, fully client-side; no user data is sent anywhere  
+
 
 ---
 
 ### 🏆 Achievements
 
 - 🧮 **Codeforces**: Rated *Pupil*  
-- 🧠 **LeetCode**: Top 10%  
+- 🧠 **LeetCode**: Top 10%
+- 🧮 **CodeChef**: Rated *3 star*  
 - 🥈 **CodeChef**: Global Rank **80 / 39,100** in Starters 176  
 - 👩‍💻 Selected among **Top 75 / 15,000+** for **NXP Women in Tech Program (Batch III)**  
 - 🔐 Completed the **Google Cybersecurity Certificate**  
